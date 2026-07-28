@@ -11,7 +11,7 @@ In this lab, you will:
 - Build one concise attendee [prerequisite](#legend) checklist.
 - Send a preflight email with the verified URL, event code, and first ready screen.
 
-<!-- Estimated Time: intentionally not shown in this readiness guide. -->
+Estimated Time: 10 minutes
 
 ![Attendee preflight flow](./images/lab-4-attendee-preflight-flow.svg " ")
 
@@ -63,8 +63,6 @@ In this lab, you will:
 ## Task 3: Record the Handoff
 
 1. Keep the send date, message owner, verified attendee URL, event code, first ready screen, and support contact with the event notes.
-
-2. After Labs 1 through 6, enter them in the [Lab 7 facilitator record](?lab=facilitator-run-of-show-template).
 
 ## Legend
 
